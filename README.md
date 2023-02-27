@@ -1,5 +1,5 @@
 # Regression Plan with Mind Maps
-The high level test strategy documents the overall testing approach of Regression Team in each Advantage DEMO application modules.
+The high level test strategy documents the overall testing approach of Regression Team in each Advantage DEMO (http://advantageonlineshopping.com/#/) application modules.
 
 WHY: To ensure the whole system works when integrated
 WHO: QEs 
@@ -69,7 +69,8 @@ HOW: End-to-End automated/manual Test Cases and Exploratory Testing
 
 ## Impact Analysis and Coverage
 
-![image](https://user-images.githubusercontent.com/110126660/221675718-82dab60e-4cb6-4b00-a85f-c2b907263a88.png)
+![image](https://user-images.githubusercontent.com/110126660/221676789-d3321ad0-b870-432e-a03d-fcfb35d71718.png)
+
 
 
 
