@@ -69,6 +69,7 @@ HOW: End-to-End automated/manual Test Cases and Exploratory Testing
 
 ## Impact Analysis and Coverage
 
+![image](https://user-images.githubusercontent.com/110126660/221675718-82dab60e-4cb6-4b00-a85f-c2b907263a88.png)
 
 
 
