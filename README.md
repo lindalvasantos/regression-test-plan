@@ -8,6 +8,8 @@ WHEN: please refer to specified timeline
 WHERE: Stage4 environment
 HOW: End-to-End automated/manual Test Cases and Exploratory Testing
 
+
+
 ## Assumptions, Dependencies & Constraints
 
 - The Test Strategy is a living document and will be continually updated through the project life cycle;
@@ -20,4 +22,55 @@ HOW: End-to-End automated/manual Test Cases and Exploratory Testing
 - Defect tracking will be thru ALM;
 
 
+
+## Timeline
 ![image](https://user-images.githubusercontent.com/110126660/221671906-3e5f9b49-77d1-481d-acab-cfc86c7a1a1d.png)
+
+
+
+## Scope
+![image](https://user-images.githubusercontent.com/110126660/221672779-e467c44e-51ef-434c-a01c-3ca015fb572c.png)
+
+
+
+## Entry Criteria and Exit Criteria
+
+### Entry Criteria includes:
+- Completion of the functional, UAT and integration phases of testing in Scrum Level (Stage2)
+- All ALM Stories in Done status and all Test Cases Passed;
+- Physical Database changes completed;
+- No outstanding severity levels of blocker from manual smoke testing;
+- No outstanding severity levels of blocker or critical incidents from automation testing health check
+- Creation of or updated user documentation;
+- For releases that involve additional product access from the test team, security access requests;
+- Modules have been promoted to release status in the corresponding Version Control Software repositories;
+- Release Inventory of modules Version controlled product implementation package (ENDEVOR, PVCS, or CONTROL based).
+
+### Exit Criteria includes:
+- Successful and complete execution of the Implementation Plan;
+- Successful and 98% execution of the Test Plan;
+- All Test Sets in Completed status
+- No outstanding Severity Levels of Blocker, Critical or Major incidents from testing
+
+
+
+## Overall Strategy
+
+![image](https://user-images.githubusercontent.com/110126660/221673556-7f6fe68b-f7c8-46db-9640-e9536c2381ca.png)
+
+
+
+
+## Execution
+
+![image](https://user-images.githubusercontent.com/110126660/221673750-7afbcf39-e4d6-4fef-9af9-0830909b3883.png)
+
+
+
+## Impact Analysis and Coverage
+
+
+
+
+
+
